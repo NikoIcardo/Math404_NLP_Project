@@ -1,0 +1,11 @@
+
+To download data: 
+
+New York Times Comments:
+https://www.kaggle.com/aashita/nyt-comments
+
+NYT articles:
+https://www.kaggle.com/nzalake52/new-york-times-articles
+
+Fake verus real articles:
+https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset

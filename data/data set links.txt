@@ -1,5 +1,5 @@
 
-To download data: 
+Possible data sets: 
 
 New York Times Comments:
 https://www.kaggle.com/aashita/nyt-comments
@@ -9,3 +9,11 @@ https://www.kaggle.com/nzalake52/new-york-times-articles
 
 Fake verus real articles:
 https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
+
+From Kaggle: https://www.kaggle.com/
+
+Also, consider searching the google datasets search bar: https://datasetsearch.research.google.com/
+
+Other NLG sets:
+
+https://aclweb.org/aclwiki/Data_sets_for_NLG
